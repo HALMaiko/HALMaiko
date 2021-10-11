@@ -7,5 +7,4 @@
 <!---
 HALMaiko/HALMaiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Hello i Max me 12 years, I live in the sity of Nizhyn
-
+---> Hello i Max me 12 years
